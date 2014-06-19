@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FIFA World Cup 2014 in Germany local timing CEST</string>
+    <string name="action_settings">Exit</string>
+    <string name="action_feedback">Feedback</string>
+    <string name="action_comment">About me</string>
+    <string name="img_min">0</string>
+    <string name="feedback_URL">http://spngks.wix.com/palani#!contact/c24vq</string>
+    <string name="comment_URL">http://spngks.wix.com/palani#!about/c14qb</string>
+
+</resources>
