@@ -16,7 +16,7 @@ import android.widget.ImageView;
 /*
  * Simple Main Activity with Redirect Intends without additional 
  * Activity. Just shuffles the images based on onclick event programatically.
- * 
+ * uploaded to GIT 
  * Reduced space by having an array of Resource integers.
  */
 public class MainActivity extends ActionBarActivity {
